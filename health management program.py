@@ -3,7 +3,7 @@ def gettime():
     import datetime
     return datetime.datetime.now()
 
-k = int(input("Enter client number\n 1:Hitesh Kumar Sharma\n 2:Manju Sharma\n 3:Shivansh Sharma\n"))
+k = int(input("Enter client number\n 1:Harry\n 2:Rohan\n 3:Hammad\n"))
 
 
 if k==1:

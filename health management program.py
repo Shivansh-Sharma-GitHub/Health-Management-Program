@@ -1,6 +1,6 @@
 def gettime():
     ''' this function is to import date and time'''
-    import datetime
+    import datetie
     return datetime.datetime.now()
 
 k = int(input("Enter client number\n 1:Harry\n 2:Rohan\n 3:Hammad\n"))
